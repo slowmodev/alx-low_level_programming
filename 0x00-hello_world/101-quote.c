@@ -2,9 +2,9 @@
 #include <unistd.h>
 
 /**
- *  main - Entry point
+ *  main - Does not contain a value hence void
  *
- *  Return: Always 0 (Success)
+ *  Return: returns the value 1 int
  */
 int main(void)
 {
