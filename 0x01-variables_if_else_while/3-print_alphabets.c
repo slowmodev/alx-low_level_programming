@@ -10,9 +10,9 @@ int main(void)
 	char c;
 	char cap;
 
-	for(c = 'a'; c <= 'z'; ++c)
+	for (c = 'a'; c <= 'z'; ++c)
 		putchar(c);
-	for(cap = 'A'; cap <= 'Z'; ++cap)
+	for (cap = 'A'; cap <= 'Z'; ++cap)
 		putchar(cap);
 	putchar('\n');
 	return (0);
