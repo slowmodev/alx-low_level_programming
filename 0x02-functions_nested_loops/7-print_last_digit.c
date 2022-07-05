@@ -5,7 +5,7 @@
  * @n: single character integer
  * Return: Always 0 (success)
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
 	int n, lastDigit;
 
