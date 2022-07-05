@@ -5,7 +5,7 @@
  * @c: single character input
  * Return: 1 if int c is lowercase, 0 if other
  */
-int _islower(int c);
+int _islower(int c)
 {
 	if (c >= 'a' && c <= 'z')
 	{
