@@ -2,6 +2,8 @@
 
 /**
  * print_line - print _
+ * @n: input for number of '_' to print
+ * Return: a straight line
  */
 void print_line(int n)
 {
