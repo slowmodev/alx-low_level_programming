@@ -2,7 +2,6 @@
 
 /**
  * more_numbers - print 0-14 in 10 lines
- * Return: 0 Alaways (Success)
  */
 void more_numbers(void)
 {
