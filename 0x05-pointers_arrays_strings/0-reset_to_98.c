@@ -7,9 +7,8 @@
 
 void reset_to_98(int *n)
 {
-	int number1;
 
-	n = &number1;
+	n = &n;
 	*n = 98;
 
 
