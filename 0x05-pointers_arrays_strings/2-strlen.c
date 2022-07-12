@@ -16,7 +16,7 @@ int _strlen(char *s)
 		{
 			_putchar((i % 10) + '0');
 		}
-		else 
+		else
 		{
 			_putchar(i);
 		}
