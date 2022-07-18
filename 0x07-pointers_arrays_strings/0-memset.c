@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * *_memset: function to emulate memset function
+ * _memset: function to emulate memset function
  * @s: destination pointer
  * @b: source pointer
  * @n: number of bytes
- * Return: memory area s
+ * Return: s
  */
 
 char *_memset(char *s, char b, unsigned int n)
