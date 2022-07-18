@@ -2,7 +2,7 @@
 #include <stddef.h>
 
 /**
- * @strstr - Entry poiny
+ * _strstr - Entry poiny
  * @haystack: input
  * @needle: output
  * Return: Always 0 (Success)
