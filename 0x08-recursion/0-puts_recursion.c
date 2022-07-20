@@ -3,7 +3,6 @@
 /**
  * _puts_recursion - function to print a string using recursion
  * @s: string
- * Return: Always 0 (Success)
  */
 void _puts_recursion(char *s)
 {
