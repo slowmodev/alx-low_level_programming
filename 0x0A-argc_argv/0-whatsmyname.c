@@ -4,7 +4,7 @@
 /**
  * _myname - checks the function
  * @argc: command line aregument counter
- * #argv: command line strings
+ * @argv: command line strings
  * Return: Always 0
  */
 int main(int argc, char *argv[])
