@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _myname - checks the function
+ * main - checks the function
  * @argc: command line aregument counter
  * @argv: command line strings
  * Return: Always 0
