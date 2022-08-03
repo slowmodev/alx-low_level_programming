@@ -23,7 +23,7 @@ char *copy(char *s)
 
 	while(s[i] != '\0')
 	{
-		mew_s[i] = s[i];
+		new_s[i] = s[i];
 		i++;
 	}
 	new_s[i] = '\0';
