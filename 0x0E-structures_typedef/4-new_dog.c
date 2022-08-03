@@ -4,7 +4,7 @@
 /**
  * copy - make copy of string
  * @s: string to be copied
- * Return: pointer to neew string (Success), NULL for failure
+ * Return: pointer to new string (Success) | NULL (Failure)
  */
 char *copy(char *s)
 {
